@@ -78,7 +78,7 @@
    ![image](https://github.com/user-attachments/assets/05503c4c-ae11-4527-ae7c-706d115e65fd)
    
 
-  3- Add options with variamts
+  3- Add options with variants
 
    BEFORE ADDING:
 
@@ -88,6 +88,48 @@
 
    ![image](https://github.com/user-attachments/assets/8f0f4dff-90a5-4ffc-a379-c2ed17605a71)
 
-  4- Change option display order
+  4- Change option display order and values order
+   BEFORE CHANGE:
+
+   ![image](https://github.com/user-attachments/assets/ed8ae69a-85fb-4a33-a143-dce373873204)
+
+
+   AFTER CHANGE:
+
+   ![image](https://github.com/user-attachments/assets/894015d4-cf66-4a91-8310-3b313582140f)
+
+
+  6- Update option value with existing name
+  
+   ![image](https://github.com/user-attachments/assets/e42df204-db7d-4b7f-953f-ff367fcfd1a9)
+
+  
+  5- Delete an option , insert it back again with variants , change option name and edit variants based on the change
+  
+  7- Update variants options to be the same
+  
+   - **NO CHANGE**
+
+
+  8- Delete variant and try to add it again
+
+  
+   BEFORE INSERTING AGAIN
    
+   ![image](https://github.com/user-attachments/assets/b01d53ad-c500-404b-86f4-f302846f2b06)
+
+   AFTER INSERTION
+
+   ![image](https://github.com/user-attachments/assets/47410db9-ba9c-406e-ae8e-bdb19862b4ab)
+
+ 9- Update variant name manually 
+
+   - **NO CHANGE**
+
+10- Update variant price to be negative
+
+  - ** REQUIRE VALIDATORS **
+
+    ![image](https://github.com/user-attachments/assets/31e73417-4da3-4d4b-bd19-208c94aa2688)
+
 
